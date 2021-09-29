@@ -4,7 +4,7 @@ Pangolins are a mammals that are a part of the Pholidota.
 
 They are known as the scaly anteater. 
 
-### Markdown
+### Background
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
