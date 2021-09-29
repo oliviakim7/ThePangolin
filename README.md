@@ -24,7 +24,7 @@ Pangolins are one of the least heard of animals. Below are some facts about them
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://en.wikipedia.org/wiki/Pangolin](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
