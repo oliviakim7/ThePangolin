@@ -6,11 +6,11 @@ b
 
 ### Background
 
-Pangolins are one of the least heard of characters. Below are some facts about them: 
+Pangolins are one of the least heard of animals. Below are some facts about them: 
 
 ```markdown
 - Pangolins are mammals that are a part of the Pholidota. 
-They are known as the scaly anteater. 
+- They are known as the scaly anteater. 
 
 # Header 1
 ## Header 2
