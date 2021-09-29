@@ -10,9 +10,11 @@ Pangolins are one of the least heard of animals. Below are some facts about them
 
 ```markdown
 - Pangolins are mammals that are a part of the Pholidota. 
-- They are known as the scaly anteater. 
 
-# Header 1
+
+# Appearance
+- Pangolins have a scaly outer shell and strongly resemble an anteater. This earned them the name of the scaly anteater. 
+- 
 ## Header 2
 ### Header 3
 
@@ -24,7 +26,7 @@ Pangolins are one of the least heard of animals. Below are some facts about them
 
 **Bold** and _Italic_ and `Code` text
 
-[https://en.wikipedia.org/wiki/Pangolin](url) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
