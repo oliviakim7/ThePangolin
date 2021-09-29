@@ -1,15 +1,16 @@
 ## The Pangolin
 
-Pangolins are a mammals that are a part of the Pholidota. 
+a
 
-They are known as the scaly anteater. 
+b
 
 ### Background
 
 Pangolins are one of the least heard of characters. Below are some facts about them: 
 
 ```markdown
-Syntax highlighted code block
+- Pangolins are mammals that are a part of the Pholidota. 
+They are known as the scaly anteater. 
 
 # Header 1
 ## Header 2
