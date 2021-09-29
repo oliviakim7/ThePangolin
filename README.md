@@ -6,7 +6,7 @@ They are known as the scaly anteater.
 
 ### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pangolins are one of the least heard of characters. Below are some facts about them: 
 
 ```markdown
 Syntax highlighted code block
