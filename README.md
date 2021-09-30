@@ -13,7 +13,7 @@ Pangolins are one of the least heard of animals. Below are some facts about them
 
 
 # Appearance
-- Pangolins have a scaly outer shell and strongly resemble an anteater. This earned them the name of the scaly anteater. 
+- Pangolins have an outer shell and strongly resemble an anteater. This earned them the name of the scaly anteater. 
 - 
 ## Header 2
 ### Header 3
