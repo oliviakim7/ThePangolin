@@ -18,8 +18,8 @@ Pangolins are one of the least heard of animals. Below are some facts about them
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+
 
 1. Numbered
 2. List
