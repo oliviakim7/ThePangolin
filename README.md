@@ -13,11 +13,14 @@ Pangolins are mammals that are a part of the Pholidota.
 - Pangolins share a strong resemblance to an anteater. 
 - They are consistently mistaken as a reptile due to their scaly outer shell.
 
-## Habitat 
+## Habitat & Food 
 - Pangolins inhabit tropical/flooded forests, thick brush, cultivated areas, and savanna grasslands.
+- Within their diet, they consume a variety of things, including: 
+           1. 
+
 
 ### Behaviors 
-
+- 
 
 1. Numbered
 2. List
