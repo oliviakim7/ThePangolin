@@ -6,7 +6,7 @@ Pangolins are often trafficked for their outer shell. People boil them off their
 
 Pangolins are one of the least heard of animals. Below are some facts about them: 
 
-```markdown
+
 Pangolins are mammals that are a part of the Pholidota. 
 
 # Appearance
