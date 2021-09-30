@@ -1,24 +1,22 @@
 ## The Pangolin
 
-a
-
-b
+Pangolins are often trafficked for their outer shell. People boil them off their bodies and are then used in medicines. 
 
 ### Background
 
 Pangolins are one of the least heard of animals. Below are some facts about them: 
 
 ```markdown
-- Pangolins are mammals that are a part of the Pholidota. 
-
+Pangolins are mammals that are a part of the Pholidota. 
 
 # Appearance
-- Pangolins have an outer shell and strongly resemble an anteater. This earned them the name of the scaly anteater. 
-- 
-## Header 2
-### Header 3
+- Pangolins share a strong resemblance to an anteater. 
+- They are consistently mistaken as a reptile due to their scaly outer shell.
 
+## Habitat 
+- Pangolins inhabit tropical/flooded forests, thick brush, cultivated areas, and savanna grasslands.
 
+### Behaviors 
 
 
 1. Numbered
@@ -38,3 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
