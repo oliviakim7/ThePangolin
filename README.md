@@ -3,23 +3,22 @@
 Pangolins are often trafficked for their outer shell. People boil them off their bodies and are then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
 
 ## Background
-- 
+- Pangolins are nocturnal and have a very strong sense of smell. 
 
 ## Appearance
 - Pangolins share a strong resemblance to an anteater. 
 - They are consistently mistaken as a reptile due to their scaly outer shell.
 
 ## Habitat & Food 
-- Pangolins inhabit tropical/flooded forests, thick brush, cultivated areas, and savanna grasslands.
+- Pangolins inhabit tropical/flooded forests, thick brush, cultivated areas, and savannah grasslands.
 - Within their diet, they consume a variety of things, including: 
-           1. 
+           1. Ants
+           2. Termites 
+           3. Larvae
+- Pangolins are mostly found in Asia and their population is growing in Africa. 
 
 
-## Behaviors 
-- 
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
