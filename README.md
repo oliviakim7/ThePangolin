@@ -1,22 +1,23 @@
 # The Pangolin
 
-Pangolins are often trafficked for their outer shell. People boil them off their bodies and are then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
+Pangolins are the most trafficked animal. People boil their scales off of their bodies. Then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
 
-## Background
+```markdown
+### Background
 - Pangolins are nocturnal and have a very strong sense of smell. 
-
-## Appearance
+- They range from 30 to 100 centimeters. 
 - Pangolins share a strong resemblance to an anteater. 
 - They are consistently mistaken as a reptile due to their scaly outer shell.
-
-## Habitat & Food 
 - Pangolins inhabit tropical/flooded forests, thick brush, cultivated areas, and savannah grasslands.
+- They can live in hollow trees or burrows. 
 - Within their diet, they consume a variety of things, including: 
            1. Ants
            2. Termites 
            3. Larvae
 - Pangolins are mostly found in Asia and their population is growing in Africa. 
 
+## The Problem 
+- 
 
 
 
