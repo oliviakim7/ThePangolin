@@ -1,15 +1,11 @@
-## The Pangolin
+# The Pangolin
 
-Pangolins are often trafficked for their outer shell. People boil them off their bodies and are then used in medicines. 
+Pangolins are often trafficked for their outer shell. People boil them off their bodies and are then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
 
-### Background
+## Background
+- 
 
-Pangolins are one of the least heard of animals. Below are some facts about them: 
-
-
-Pangolins are mammals that are a part of the Pholidota. 
-
-# Appearance
+## Appearance
 - Pangolins share a strong resemblance to an anteater. 
 - They are consistently mistaken as a reptile due to their scaly outer shell.
 
@@ -19,7 +15,7 @@ Pangolins are mammals that are a part of the Pholidota.
            1. 
 
 
-### Behaviors 
+## Behaviors 
 - 
 
 1. Numbered
