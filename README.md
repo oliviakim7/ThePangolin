@@ -25,7 +25,7 @@ Pangolins' scales have been claimed to dissolve blood clots and help with blood 
 
 _All information from:_
 
-[https://www.discoverwildlife.com/animal-facts/mammals/facts-about-pangolins/](url) and [https://en.wikipedia.org/wiki/Pangolin](url)
+[https://www.discoverwildlife.com/animal-facts/mammals/facts-about-pangolins/](url) and [https://en.wikipedia.org/wiki/Pangolin ](url)
 
 ![istockphoto-1272252961-170667a](https://user-images.githubusercontent.com/91553546/135576126-06b6f9b9-d6ca-4748-8809-ddf9aeee2ca3.jpg)
 
