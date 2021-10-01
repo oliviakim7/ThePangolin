@@ -1,5 +1,7 @@
 # The Pangolin
 
+![istockphoto-1276370504-170667a](https://user-images.githubusercontent.com/91553546/135576202-086b750a-56c6-4c59-aa1f-b932f80305ad.jpg)
+
 Pangolins are the most trafficked animal. People boil their scales off of their bodies. Then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
 
 ```markdown
@@ -24,20 +26,7 @@ _All information from:_
 
 [https://www.discoverwildlife.com/animal-facts/mammals/facts-about-pangolins/](url) and https://en.wikipedia.org/wiki/Pangolin
 
-![![istockphoto-1272252961-170667a](https://user-images.githubusercontent.com/91553546/135576126-06b6f9b9-d6ca-4748-8809-ddf9aeee2ca3.jpg)
-(src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oliviakim7/byeol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+![istockphoto-1272252961-170667a](https://user-images.githubusercontent.com/91553546/135576126-06b6f9b9-d6ca-4748-8809-ddf9aeee2ca3.jpg)
 
 
 
