@@ -3,7 +3,6 @@
 Pangolins are the most trafficked animal. People boil their scales off of their bodies. Then used in medicines. Pangolins are one of the least heard of animals. Below are some facts about them: 
 
 ```markdown
-### Background
 - Pangolins are nocturnal and have a very strong sense of smell. 
 - They range from 30 to 100 centimeters. 
 - Pangolins share a strong resemblance to an anteater. 
@@ -15,9 +14,9 @@ Pangolins are the most trafficked animal. People boil their scales off of their 
            2. Termites 
            3. Larvae
 - Pangolins are mostly found in Asia and their population is growing in Africa. 
-
+```
 ## The Problem 
-- 
+Pangolins' scales have been claimed to dissolve blood clots and help with blood circulation. However, they're are completely unproven yet Pangolins drive the black market for animal body parts. Pangolins are endangered because of this. 
 
 
 
